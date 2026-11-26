@@ -1,0 +1,14 @@
+{
+  "raw_rows": 2520,
+  "duplicate_rows_removed": 20,
+  "invalid_targets_removed": 1,
+  "clean_rows": 2499,
+  "training_rows": 1999,
+  "test_rows": 500,
+  "selected_model": "Linear regression",
+  "test_mae_usd": 15175.546932929597,
+  "test_rmse_usd": 19006.808507965055,
+  "test_r2": 0.9346947842935652,
+  "baseline_test_mae_usd": 57301.784,
+  "mae_reduction_pct": 73.51644944783988
+}

@@ -1,0 +1,7 @@
+property_id,living_area_sqft,lot_area_sqft,overall_quality,year_built,bedrooms,bathrooms,garage_spaces,renovated,neighborhood,house_style
+36,971.0,5864.0,4.0,2006,2.0,2.0,2.0,No,Brookside,Split Level
+37,2293.0,5557.0,7.0,1973,4.0,3.0,1.0,No,Westfield,Two Story
+38,2763.0,18380.0,6.0,1941,5.0,3.0,2.0,Yes,Westfield,Split Level
+39,1258.0,4761.0,9.0,2009,2.0,1.0,0.0,No,Cedar Park,Ranch
+40,1828.0,11009.0,6.0,1966,4.0,2.0,1.0,No,Old Town,Ranch
+41,1289.0,,6.0,2024,3.0,1.0,,Yes,Brookside,Ranch
