@@ -88,16 +88,3 @@ Run `python -m src.generate_data` to recreate the raw dataset and sample CSV.
 | `models/` | Fitted preprocessing and model pipeline |
 | `reports/` | Charts, metrics, held-out predictions, and feature importance |
 | `POST_DRAFT.md` | Portfolio post draft |
-
-## GitHub upload
-
-Create a new empty GitHub repository named `House_Price_Prediction`. In Terminal, open the extracted project folder, replace `YOUR_USERNAME`, and run:
-
-```bash
-git init
-git add .
-git commit -m "Add house price prediction project"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/House_Price_Prediction.git
-git push -u origin main
-```
